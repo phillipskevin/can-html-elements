@@ -2,7 +2,7 @@
   "name": "can-html-elements",
   "version": "0.0.0",
   "description": "Programmatically instantial HTMLElements using CanJS 5",
-  "main": "index.js",
+  "main": "can-html-elements.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
