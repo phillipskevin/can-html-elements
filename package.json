@@ -1,0 +1,26 @@
+{
+  "name": "can-html-elements",
+  "version": "0.0.0",
+  "description": "Programmatically instantial HTMLElements using CanJS 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Kevin Phillips",
+    "email": "kphillips86@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:phillipskevin/can-html-elements.git",
+    "github": "https://github.com/phillipskevin/can-html-elements"
+  },
+  "dependencies": {
+    "can": "^5.6.1"
+  },
+  "devDependencies": {
+    "steal": "^2.1.2"
+  }
+}
